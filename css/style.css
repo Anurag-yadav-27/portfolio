@@ -108,6 +108,12 @@ p{
 	li{
 		font-size: 1.6vw;
 	}
+	 .col-md-1{width:12.5%}
+	.col-md-2{width:15%}
+	 .contact-image{
+	  width:4vw;
+	  height:3.5vw;
+  }
 }
 @media only screen and (min-width:600px) {
 	.project-image{
